@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="signUp">New Here?<font color='#4b92db'> Register Yourself!</font></string>
+    <string name="signIn">Already have an Account?<font color='#4b92db'> Sign In</font></string>
+    <string name="termsAndConditions">I agree with<font color='#4b92db'><b><u> Terms &amp; Conditions</u></b></font></string>
+
+    <string name="facebook_app_id">585209073240269</string>
+    <string name="fb_login_protocol_scheme">fb585209073240269</string>
+    <string name="facebook_client_token">186c94a2e9cb283d8308cc50b8bc1488</string>
+</resources>
